@@ -16,7 +16,7 @@ It provides the *bare bones* for creating a simple yet effective state managemen
 
 Not sure if a state machine is the right choice for your project? [This chapter](https://gameprogrammingpatterns.com/state.html) from the *Game Programming Patterns* book will help you.
 
-A [sample](Assets/StateLogic/Samples/QuickStart/) is available with the basics about the plugin.
+A [sample](Samples~/QuickStart/) is available with the basics about the plugin.
 
 ## Quick start
 
@@ -53,4 +53,4 @@ public class MyState : State {
 
 ## License
 
-Licensed under the [The MIT License (MIT)](http://opensource.org/licenses/MIT). Please see [LICENSE](https://raw.githubusercontent.com/intentor/statelogic/main/LICENSE) for more information.
+Licensed under the [The MIT License (MIT)](http://opensource.org/licenses/MIT). Please see [LICENSE](LICENSE) for more information.
