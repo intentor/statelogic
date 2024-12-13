@@ -16,7 +16,7 @@ It provides the *bare bones* for creating a simple yet effective state managemen
 
 Not sure if a state machine is the right choice for your project? [This chapter](https://gameprogrammingpatterns.com/state.html) from the *Game Programming Patterns* book will help you.
 
-An [example](Assets/StateLogic/Example/) is available with the basics about the plugin.
+A [sample](Assets/StateLogic/Samples/QuickStart/) is available with the basics about the plugin.
 
 ## Quick start
 
