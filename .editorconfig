@@ -1,0 +1,13 @@
+[*]
+indent_style = space
+indent_size = 4
+tab_width = 4
+dotnet_separate_import_directive_groups = false
+dotnet_sort_system_directives_first = true
+
+# C# code-styles rule options: https://learn.microsoft.com/en-us/dotnet/fundamentals/code-analysis/code-style-rule-options
+[*.cs]
+csharp_new_line_before_open_brace = none
+csharp_new_line_before_else = false
+csharp_new_line_before_catch = false
+csharp_new_line_before_finally = false
