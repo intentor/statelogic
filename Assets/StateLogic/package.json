@@ -1,0 +1,21 @@
+{
+    "name": "com.intentor.statelogic",
+    "displayName": "StateLogic",
+    "description": "A lightweight state machine for Unity projects",
+    "unity": "2023.1",
+    "version": "1.0.0",
+    "documentationUrl": "https://github.com/intentor/statelogic",
+    "license": "MIT",
+    "licensesUrl": "https://github.com/intentor/statelogic/blob/main/LICENSE",
+    "keywords": [
+        "Finite State Machine"
+    ],
+    "dependencies": {},
+    "samples": [
+        {
+            "displayName": "Quick Start",
+            "description": "A quick start example for State Logic.",
+            "path": "Samples/QuickStart"
+        }
+    ]
+}
