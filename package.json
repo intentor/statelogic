@@ -15,7 +15,7 @@
         {
             "displayName": "Quick Start",
             "description": "A quick start example for State Logic.",
-            "path": "Samples~/QuickStart"
+            "path": "Samples/QuickStart"
         }
     ]
 }
