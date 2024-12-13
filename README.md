@@ -18,6 +18,12 @@ Not sure if a state machine is the right choice for your project? [This chapter]
 
 A [sample](Samples~/QuickStart/) is available with the basics about the plugin.
 
+## Setup
+
+1. On Unity, go to `Window/Package Manager`.
+2. In the Package Manager window, click `+`, selecting `Install package from git URL...`.
+3. Add `https://github.com/intentor/statelogic.git` as URL.
+
 ## Quick start
 
 1. Create an empty `GameObject` in the scene and add a `State Machine/State Machine Manager` component.
