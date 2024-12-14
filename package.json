@@ -8,7 +8,8 @@
     "license": "MIT",
     "licensesUrl": "https://github.com/intentor/statelogic/blob/main/LICENSE",
     "keywords": [
-        "Finite State Machine"
+        "FSM",
+        "State Machine"
     ],
     "dependencies": {},
     "samples": [
