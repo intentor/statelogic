@@ -1,3 +1,14 @@
 {
-	"name": "com.intentor.statelogic.Runtime"
+    "name": "com.intentor.statelogic.Runtime",
+    "rootNamespace": "StateLogic",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
 }
