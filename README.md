@@ -1,4 +1,4 @@
-# ![StateLogic](https://github.com/user-attachments/assets/10211b69-3cdf-441a-8a3f-198bf901a677)
+# ![State Logic](https://github.com/user-attachments/assets/10211b69-3cdf-441a-8a3f-198bf901a677)
 
 A lightweight state machine for Unity projects
 
@@ -10,7 +10,7 @@ A lightweight state machine for Unity projects
 
 ## Introdution
 
-*StateLogic* is a lightweight finite state machine for Unity projects compatible with Unity 2021+ and 6.
+*State Logic* is a lightweight finite state machine for Unity projects compatible with Unity 2021+ and 6.
 
 It provides the *bare bones* for creating a simple yet effective state management for your games.
 

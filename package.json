@@ -1,6 +1,6 @@
 {
     "name": "com.intentor.statelogic",
-    "displayName": "StateLogic",
+    "displayName": "State Logic",
     "description": "A lightweight state machine for Unity projects",
     "unity": "2023.1",
     "version": "1.0.0",
